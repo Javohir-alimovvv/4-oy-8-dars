@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 1487px;
+    height: 1006px;
+    display: flex;
+    align-items: center;
+    background-image: url(../images/Rectangle\ 18.png);
+    justify-content: center;
+}
+
+.form {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 5px;
+    width: 1100.27px;
+    height: 392.18px;
+    background-image: url(../images/Mask\ Group.svg);
+    background-size: cover;
+}
+.ФОРМА{
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+margin-bottom: 45px;
+}
+.input{
+    width: 362.49px;
+height: 50.72px;
+text-indent: 20px;
+border-radius: 7px;
+border: 1px solid black;
+margin-right: 20px;
+margin-bottom: 20px;
+}
+.input_text{
+    width: 749.73px;
+height: 81.65px;
+border-radius: 9px;
+border: 1px solid black;
+text-indent: 20px;
+}
+.btn{
+    width: 169.49px;
+height: 42.06px;
+border-radius: 9px;
+background: linear-gradient(96.12deg, #D4145A -21.03%, #3D5BF5 103.56%);
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+border: transparent;
+margin-top: 40px;
+
+
+}
